@@ -2,7 +2,7 @@
     <p align = "center">
         <img src = "https://komarev.com/ghpvc/?username=TomVM-A&style=plastic&color=blueviolet" alt = "Profile Views"/>
     </p>
-    <h1 style="text-align: center;">Hello there 👋</h1>
+    <h2 style="text-align: center;">Hello there 👋</h2>
     <p aling="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MThtazV6YWxxaDFmOGdlYm1xcTFoZDBrbzBveWRocDQ5ODV3N2luMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3o6nV966gHSu47JbUY/giphy.gif" alt="Arnol, from hey arnol! show is say hello">
     </p>
