@@ -6,7 +6,7 @@
     <p aling="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MThtazV6YWxxaDFmOGdlYm1xcTFoZDBrbzBveWRocDQ5ODV3N2luMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3o6nV966gHSu47JbUY/giphy.gif" alt="Arnol, from hey arnol! show is say hello">
     </p>
-    <p style="text-align: center;">I'm Tomas, a <strong>backend developer ✨</strong></p>
+    <h1 style="text-align: center;">I'm Tomas, a <strong>backend developer ✨</strong></h1>
 </section>
 
 I view software development as the ultimate tool-creation engine 🚀. My passion is building impactful solutions that address real-world challenges—a mindset reinforced by my background in **Environmental Engineering**.
